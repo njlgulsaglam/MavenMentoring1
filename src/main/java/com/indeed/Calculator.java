@@ -16,7 +16,7 @@ public class Calculator {
 		WebDriver driver = new ChromeDriver();
 		
 		driver.get("https://www.cnn.com");
-		
+		System.out.println("My name is Nejla");
 	}
 
 }
